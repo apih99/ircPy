@@ -36,8 +36,8 @@ A modern IRC (Internet Relay Chat) client implementation in Python with both GUI
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/irc-client.git
-cd irc-client
+git clone https://github.com/apih99/ircPy.git
+cd ircPy
 ```
 
 2. Create a virtual environment (recommended):
@@ -68,7 +68,7 @@ python irc_client.py
 ## Project Structure
 
 ```
-irc-client/
+ircPy/
 ├── irc_client.py     # Core IRC client implementation
 ├── irc_gui.py        # GUI implementation
 ├── requirements.txt  # Project dependencies
