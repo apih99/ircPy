@@ -184,11 +184,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Inspired by classic IRC clients
 - Built as part of the Coding Challenges project
 
-## Contact
-
-For questions and support:
-- Create an issue in the repository
-- Contact: your@email.com
 
 ## Version History
 
